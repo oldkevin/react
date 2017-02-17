@@ -38,6 +38,5 @@ Having trouble with Pages? Check out our [documentation](https://help.github.com
 
 test 
 ReactDOM.render(
-  <h1>Hello, world!</h1>,
-  document.getElementById('root')
+  <h1>Hello, world!</h1>
 );
